@@ -1,0 +1,13 @@
+.hide {
+  display: none;
+}
+
+.wrapper {
+  border: 1px solid black;
+}
+
+.large {
+  font-size: 22px;
+  color: red;
+  text-decoration-line: line-through;
+}
